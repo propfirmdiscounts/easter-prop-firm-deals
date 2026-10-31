@@ -1,0 +1,14 @@
+# Easter - PropFirmDiscount.com
+
+Easter prop firm deals and the discount codes of the firms that ran them.
+
+## Dataset
+
+25 deals from 20 prop firms, newest 2026-04-07.
+Each row states the deal, its dates, the firm's discount code, and where to redeem it.
+
+## Links
+
+- Event page: https://propfirmdiscount.com/tag/easter/
+- Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
