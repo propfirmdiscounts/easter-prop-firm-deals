@@ -21,7 +21,7 @@ tags:
 
 As of 2026-04-07, 25 Easter deals from 20 prop firms are tracked, 24 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 50% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at QT Funded, and 35% OFF with code CSV at Goat Funded Trader.
+The biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code CSV at Goat Funded Trader.
 
 ## Prop Firms with the Highest Discount Codes in Easter 2026
 
@@ -29,8 +29,8 @@ The biggest verified Easter discount codes in the 2026 season are 90% OFF with c
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations | 90% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Earn2Trade | PFD | 50% | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 4 | QT Funded | PFD | 50% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | QT Funded | PFD | 60% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Earn2Trade | PFD | 50% | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 5 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | 6 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | 30% off | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
 | 7 | AquaFunded | PFD | 25% | Easter Evaluation Discount: 45% Off All Accounts | 45% off | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
