@@ -2,22 +2,22 @@
 
 As of 2026-04-07, 25 Easter deals from 20 prop firms are tracked, 24 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Easter discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code CSV at Goat Funded Trader.
+The biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 45% OFF with code PFD at QT Funded, and 40% OFF with code PFD at Funding Traders.
 
 ## Prop Firms with the Highest Discount Codes in Easter 2026
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest Easter deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest Easter deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations | 90% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funding Traders | PFD | 70% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | QT Funded | PFD | 60% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 4 | Earn2Trade | PFD | 50% | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 5 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 6 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | 30% off | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| 7 | AquaFunded | PFD | 25% | Easter Evaluation Discount: 45% Off All Accounts | 45% off | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 8 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | 30% off | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| 9 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | Full Profit Split | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 10 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Plans Easter Discount | 25% off | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
+| 1 | Phidias Propfirm | PFD | 90% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funding Traders | PFD | 40% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | QT Funded | PFD | 45% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Earn2Trade | PFD | 60% | 60% Off Evaluation Accounts and Discounted Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 5 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 6 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
+| 7 | AquaFunded | PFD | 25% | Easter Evaluation Discount: 45% Off All Accounts | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 8 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| 9 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| 10 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Plans Easter Discount | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-25-off-all-accounts-easter/) | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 
 The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFunded — 45% off.
 
@@ -122,11 +122,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
