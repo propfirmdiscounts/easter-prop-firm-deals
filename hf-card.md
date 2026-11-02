@@ -21,13 +21,13 @@ tags:
 
 As of 2026-04-07, 25 Easter deals from 20 prop firms are tracked, 24 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code CSV at Goat Funded Trader.
+The biggest verified Easter discount codes in the 2026 season are 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at QT Funded, 50% OFF with code PFD at Earn2Trade, and 35% OFF with code CSV at Goat Funded Trader.
 
 ## Prop Firms with the Highest Discount Codes in Easter 2026
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Easter deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations | 90% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 80% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations | 90% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | QT Funded | PFD | 60% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | 45% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 4 | Earn2Trade | PFD | 50% | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
@@ -58,11 +58,11 @@ The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFund
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 20 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Phidias Propfirm. The code is separate from the Easter offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 20 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 80% off with code PFD at Phidias Propfirm. The code is separate from the Easter offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 45% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 45% off. Standing discount codes among these firms run up to 80% off, and every deal in the history below states its own figure.
 
 ---
 
