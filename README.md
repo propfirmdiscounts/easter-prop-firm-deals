@@ -15,9 +15,9 @@ The biggest verified Easter discount codes in the 2026 season are 90% OFF with c
 | 5 | AquaFunded | PFD | 35% | Easter Evaluation Discount: 45% Off All Accounts | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 6 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | 7 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| 8 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| 9 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 10 | Alpha Futures | Tran009503 | 15% | 25% Off All Evaluation Plans Easter Discount | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-25-off-all-accounts-easter/) | Ended | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
+| 8 | Funded Trading Plus | PFD | 20% | 15% Discount and Additional Account on 2-Step Evaluations Up to $100k | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/ft-plus-15-discount-free-account-2-step-100k-easter/) | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| 10 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
 
 The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFunded — 45% off.
 
