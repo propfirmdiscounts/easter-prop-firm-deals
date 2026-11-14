@@ -1,6 +1,6 @@
 # Easter Prop Firm Discount Codes (2026)
 
-As of 2026-04-07, 25 Easter deals from 20 prop firms are tracked, 24 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-04-07, 28 Easter deals from 21 prop firms are tracked, 27 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, and 40% OFF with code PFD at FundingTraders.
 
@@ -22,11 +22,11 @@ The biggest verified Easter discount codes in the 2026 season are 90% OFF with c
 The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFunded — 45% off.
 
 - Event: Easter
-- Deals tracked: 25 (24 in 2026)
-- Firms: 20
-- Firms with a code in the 2026 season: 19
+- Deals tracked: 28 (27 in 2026)
+- Firms: 21
+- Firms with a code in the 2026 season: 20
 - Newest deal: 2026-04-07
-- Deals tagged on the site: 45 (25 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 45 (28 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/easter/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -39,7 +39,7 @@ The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFund
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 20 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Easter offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 21 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Easter offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
@@ -49,9 +49,9 @@ The newest deal is 45% off. Standing discount codes among these firms run up to 
 
 ## Easter deal history
 
-Total deals tracked: **25**
+Total deals tracked: **28**
 
-### 2026 (24 deals)
+### 2026 (27 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -76,9 +76,12 @@ Total deals tracked: **25**
 | 2026-04-01 | FXIFY | 30% Off Easter Evaluation Accounts Promotion | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-easter-promotion/) |
 | 2026-03-30 | Phidias Propfirm | 50% to 80% Off Evaluation Accounts: Easter Promotion Pricing Structure | 80% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-easter-boost-discount/) |
 | 2026-03-30 | Goat Funded Trader | Easter Promotion: 50% Off All Evaluation Accounts | 50% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) |
+| 2026-03-30 | Bullwaves Prime | Easter Deal: 100% Deposit Bonus for Traders | Full Bonus | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-easter-100-percent-bonus/) |
 | 2026-03-27 | Earn2Trade | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) |
 | 2026-03-26 | Super Funded | Easter Deal: 30% Off 25K-200K Challenges | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) |
 | 2026-03-26 | Super Funded | Easter Promotion: 50% Off 3K-10K Challenges | 50% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-50-percent-off-3k-10k-easter/) |
+| 2026-03-25 | Bullwaves Prime | 30% Off Upfront Entry Cost for Evaluation Accounts | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/) |
+| 2026-03-25 | Bullwaves Prime | 100% Deposit Bonus For Account Funding | Full Deposit Bonus | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/) |
 
 ### 2025 (1 deal)
 

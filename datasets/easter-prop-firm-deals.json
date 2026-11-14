@@ -420,6 +420,26 @@
     "activation_link": "https://propfirmdiscount.com/go/goatfunded"
   },
   {
+    "deal_id": 11546,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "Easter Deal: 100% Deposit Bonus for Traders",
+    "event": "Easter",
+    "offer_type": "deal",
+    "scope": [
+      "Account Deposits"
+    ],
+    "discount_value": "Full Bonus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-03-30",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-easter-100-percent-bonus/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-03-30",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
     "deal_id": 11628,
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
@@ -478,6 +498,46 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/super-funded/",
     "last_verified": "2026-03-26",
     "activation_link": "https://propfirmdiscount.com/go/superfunded"
+  },
+  {
+    "deal_id": 11529,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "30% Off Upfront Entry Cost for Evaluation Accounts",
+    "event": "Easter",
+    "offer_type": "coupon",
+    "scope": [
+      "Evaluation Challenges, Limited Time"
+    ],
+    "discount_value": "30%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-03-25",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-03-25",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
+    "deal_id": 11528,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "100% Deposit Bonus For Account Funding",
+    "event": "Easter",
+    "offer_type": "deal",
+    "scope": [
+      "Account Deposits, Easter Promotion"
+    ],
+    "discount_value": "Full Deposit Bonus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-03-25",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-03-25",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
   },
   {
     "deal_id": 12980,
