@@ -8,16 +8,16 @@ The biggest verified Easter discount codes in the 2026 season are 90% OFF with c
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Easter deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundingTraders | PFD | 40% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Earn2Trade | PFD | 60% | 60% Off Evaluation Accounts and Discounted Resets with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 4 | QT Funded | PFD | 50% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 5 | AquaFunded | PFD | 35% | Easter Evaluation Discount: 45% Off All Accounts | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 6 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 7 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| 8 | Funded Trading Plus | PFD | 20% | 15% Discount and Additional Account on 2-Step Evaluations Up to $100k | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/ft-plus-15-discount-free-account-2-step-100k-easter/) | Ended | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 9 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| 10 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| 1 | Phidias Propfirm | PFD | 90% | 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/) | Ended | [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | FundingTraders | PFD | 40% | Easter Evaluation Discount: 40% Off & Buy 1 Get 1 Free with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 3 | Earn2Trade | PFD | 60% | 60% Off Evaluation Accounts and Discounted Resets with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) | Ended | [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/) |
+| 4 | QT Funded | PFD | 50% | 45% Off Evaluation Cost, 100% Refund and Bonus Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/) | Ended | [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/) |
+| 5 | AquaFunded | PFD | 35% | Easter Evaluation Discount: 45% Off All Accounts | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/) | Ended | [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 6 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) | Ended | [https://propfirmdiscount.com/prop-firm/goat-funded-trader/](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
+| 7 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) | Ended | [https://propfirmdiscount.com/prop-firm/super-funded/](https://propfirmdiscount.com/prop-firm/super-funded/) |
+| 8 | Funded Trading Plus | PFD | 20% | 15% Discount and Additional Account on 2-Step Evaluations Up to $100k | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/ft-plus-15-discount-free-account-2-step-100k-easter/) | Ended | [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
+| 9 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | [https://propfirmdiscount.com/prop-firm/wemastertrade/](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
+| 10 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | [https://propfirmdiscount.com/prop-firm/the-prop-trade/](https://propfirmdiscount.com/prop-firm/the-prop-trade/) |
 
 The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFunded — 45% off.
 
@@ -27,9 +27,10 @@ The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFund
 - Firms with a code in the 2026 season: 20
 - Newest deal: 2026-04-07
 - Deals tagged on the site: 45 (28 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/easter/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/easter-prop-firm-deals](https://github.com/propfirmdiscounts/easter-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/easter/](https://propfirmdiscount.com/tag/easter/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## Easter prop firm deals FAQ
 
@@ -100,9 +101,9 @@ A deal is listed here because an editor tagged it for Easter on the site, not be
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/easter/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/easter/](https://propfirmdiscount.com/tag/easter/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/easter-prop-firm-deals.json`
 
