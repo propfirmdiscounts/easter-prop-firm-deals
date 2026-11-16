@@ -1,10 +1,10 @@
-# Easter Prop Firm Discount Codes (2026)
+# Easter Prop Firm Deals & Discount Codes (2026)
 
-This Easter, 28 deals from 21 prop firms are tracked, with 27 published during the 2026 season. Every firm carries a verified discount code that works year-round.
+Explore Easter prop firm deals and discount codes from 21 proprietary trading firms, with 28 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Easter discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, and 40% OFF with code PFD at FundingTraders.
 
-## Prop Firms with the Highest Discount Codes in Easter 2026
+## Prop Firms with the Highest Easter Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Easter deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -15,24 +15,27 @@ As of November 2026, the biggest verified Easter discount codes in the 2026 seas
 | 5 | AquaFunded | PFD | 35% | Easter Evaluation Discount: 45% Off All Accounts | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/) | Ended | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 | 6 | Goat Funded Trader | CSV | 35% | Easter Promotion: 50% Off All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-easter-50-off/) | Ended | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 | 7 | Super Funded | CHUN | 30% | Easter Deal: 30% Off 25K-200K Challenges | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/) | Ended | [Super Funded Page](https://propfirmdiscount.com/prop-firm/super-funded/) |
-| 8 | Funded Trading Plus | PFD | 20% | 15% Discount and Additional Account on 2-Step Evaluations Up to $100k | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/ft-plus-15-discount-free-account-2-step-100k-easter/) | Ended | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
-| 9 | WeMasterTrade | PFD | 20% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
+| 8 | WeMasterTrade | PFD | 30% | 30% Off All Evaluation Accounts Entry Fee | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) | Ended | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
+| 9 | Funded Trading Plus | PFD | 20% | 15% Discount and Additional Account on 2-Step Evaluations Up to $100k | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/ft-plus-15-discount-free-account-2-step-100k-easter/) | Ended | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
 | 10 | thePropTrade | PFD | 20% | 100% Profit Split Upgrade for PayFlex Evaluations | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-100-profit-split-payflex-easter/) | Ended | [thePropTrade Page](https://propfirmdiscount.com/prop-firm/the-prop-trade/) |
 
-The newest is **Easter Evaluation Discount: 45% Off All Accounts** from AquaFunded — 45% off.
+The latest recorded Easter-tagged promotion is AquaFunded offering Easter Evaluation Discount: 45% Off All Accounts, published on April 7, 2026. The offer has since ended.
 
 - Event: Easter
-- Deals tracked: 28 (27 in 2026)
-- Firms: 21
+- Easter deals in this dataset: 28
+- Firms represented: 21
+- Deals published in 2026: 27
 - Firms with a code in the 2026 season: 20
 - Newest deal: 2026-04-07
-- Deals tagged on the site: 45 (28 of them from firms with a verified code, listed below)
 - GitHub repository: [Easter Deals Repository](https://github.com/propfirmdiscounts/easter-prop-firm-deals)
+- All Easter-tagged deals on the main site: 45 (28 of them from firms with a verified code, listed below)
 - Event page: [Easter Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/easter/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Easter prop firm deals FAQ
+This repository includes Easter-tagged deals from firms with a verified standing discount code. The main website may contain additional Easter-tagged promotions from firms that are not included in this dataset.
+
+## Easter Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Easter prop firm deal?**
 
@@ -48,11 +51,11 @@ The newest deal is 45% off. Standing discount codes among these firms run 85% of
 
 ---
 
-## Easter deal history
+## Easter Prop Firm Deal History
 
 Total deals tracked: **28**
 
-### 2026 (27 deals)
+### 2026 Easter Deals (27 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -84,7 +87,7 @@ Total deals tracked: **28**
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime: 30% Off Upfront Entry Cost for Evaluation Accounts | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/) |
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime: 100% Deposit Bonus For Account Funding | Full Deposit Bonus | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/) |
 
-### 2025 (1 deal)
+### 2025 Easter Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -92,20 +95,19 @@ Total deals tracked: **28**
 
 ---
 
-## About this repository
+## About the Easter Prop Firm Deals Dataset
 
-This repository mirrors every **Easter** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Easter-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Easter on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Easter Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/easter/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/easter-prop-firm-deals.json`
+## Easter Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -135,13 +137,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
