@@ -88,7 +88,7 @@ Total deals tracked: **25**
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
-| 2025-04-17 | Atlas Funded | Atlas Funded: 40% Off Challenges Plus No Max Drawdown - Easter | 40% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/) |
+| 2025-04-17 | Atlas Funded | Atlas Funded: 40% Off Challenges Plus No Max Drawdown - Easter (code PFD) | 40% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/) |
 
 ---
 
